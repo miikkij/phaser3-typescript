@@ -1,0 +1,10 @@
+{
+  "name": "phaser3-typescript",
+  "alias": "phaser3.karelianstudios.com",
+  "files": [
+    "index.html",
+    "assets",
+    "build"
+  ],
+  "type": "static"
+}
